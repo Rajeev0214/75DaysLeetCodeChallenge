@@ -18,12 +18,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
