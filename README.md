@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0217-contains-duplicate](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Rajeev0214/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
